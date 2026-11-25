@@ -16,3 +16,10 @@ Swagger / openAPI
 Junit5
 Postman
 Git&Github
+
+**Project Modules**
+Add job application
+View job application
+Update job status
+Delete application
+Search applications
